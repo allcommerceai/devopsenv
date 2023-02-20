@@ -7,7 +7,7 @@
 
 ## 3. DevOps Center Setting 
 
-### Connected App and User assign permission
+### Open setting, Install Package, Create Connected App and Assign User Permission
 
 ### Create Project 
 1. link github 
