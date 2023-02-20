@@ -9,3 +9,8 @@
 git clone https://allcommerceai:ghp_C0KZXTJktDAH6MwCyPbHauircnPKvL3EobJ@github.com/allcommerceai/pccwdemo
 
 ```
+
+
+Not need to create repositories as "DevOps Center" will help create.
+And also about branches, all branches will be created when create work items 
+
