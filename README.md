@@ -17,4 +17,4 @@
 
 ## 4. Run Work Items
 1. apex created in vscode -> push to dev org -> go step by step pipeline 
-2. create a field on Account -> pull to local vscode -> go step by step pipeline 
+2. create a field on Account in scratch org -> pull to local vscode -> go step by step pipeline 
