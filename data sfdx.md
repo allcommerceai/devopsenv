@@ -1,5 +1,20 @@
 # Data Import&Export realted SFDX
 
+```
+USAGE
+  $ sfdx data COMMAND
+
+TOPICS
+  data create  create a record
+  data delete  delete a single record or multiple records in bulk
+  data export  export data from your org
+  data get     get a single record
+  data import  import data via the tree api
+  data query   query records
+  data update  update a single record
+  data upsert  upsert many records via the bulk API
+```
+
 ## data export
 
 1. By write the Soql control just the related data is exported
