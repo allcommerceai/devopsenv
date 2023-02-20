@@ -1,4 +1,0 @@
-# Salesforce DevOps Center Pipeling
-
-## 
-
