@@ -1,4 +1,4 @@
-# DevOps with DevOps Center
+# DevOps with Salesforce DevOps Center
 
 
 ## 1. Prepare all scratch org for pipeline 
