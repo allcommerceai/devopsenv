@@ -10,9 +10,10 @@
 ### Connected App and User assign permission
 
 ### Create Project 
-link github 
-adjust pipeline environments and its github branch name (dev not need to create at this step)
-active pipeline 
+1. link github 
+2. adjust pipeline environments 
+3. its github branch name (dev not need to create at this step)
+4. active pipeline 
 
 ## 4. Run Work Items
 1. apex created in vscode -> push to dev org -> go step by step pipeline 
