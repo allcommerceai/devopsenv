@@ -29,3 +29,11 @@ get gip key
 ```
 sfdx org create scratch -f config/project-scratch-def.json --async
 ```
+
+#### Delete Org
+sfdx org delete shape -o <value> [--json] [--api-version <value>] [-p]
+```
+sfdx org delete shape -o <username/alias>
+```
+  
+  
