@@ -1,5 +1,4 @@
-# Data Import&Export realted SFDX
-
+# SFDX -> Data Import&Export  
 ```
 USAGE
   $ sfdx data COMMAND
