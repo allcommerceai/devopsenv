@@ -9,4 +9,6 @@ https://www.youtube.com/watch?v=yp14LLKcnOg
 #### create JIRA Issue
 https://gist.github.com/amulhai/8c524f8774ae0a6a20a23e7cedabb97a
 
+https://www.peeklogic.com/article/7-ways-to-integrate-salesforce-and-jira/
+
 
