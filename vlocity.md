@@ -9,3 +9,4 @@
 https://github.com/vlocityinc/vlocity_build
 ```
 
+##### intall notice, update npm to the latest version 
