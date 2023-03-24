@@ -30,3 +30,22 @@ Compare and certain what is changed, update directly in metadata file, and uploa
 Web2Lead - Lwc component with **webtolead** html code support
 
 ### Google Places API for Appointments - Territory Resources
+
+
+### Use Aura App to support lwc testing 
+
+create a Aura App with name **lwcApp**
+
+```
+<aura:application extends="force:slds">
+    <c:partnerApplication/>
+</aura:application>
+
+```
+https://yourdomain.lightning.force.com/c/lwcApp.app
+
+```
+
+
+
+```
