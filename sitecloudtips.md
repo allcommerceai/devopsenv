@@ -47,3 +47,10 @@ create a Aura App with name **lwcApp**
 ```
 https://yourdomain.lightning.force.com/c/lwcApp.app
 ```
+
+
+### Flow Can be used in Experience Cloud
+
+### LWC can be used in a flow screen to enhance the function
+
+
