@@ -54,3 +54,14 @@ https://yourdomain.lightning.force.com/c/lwcApp.app
 ### LWC can be used in a flow screen to enhance the function
 
 
+### Used in site, lunch flow in Modal
+https://github.com/salesforce-experiencecloud/LaunchFlowInModal
+
+### Make Tabs
+
+### Make Record List
+
+
+
+
+
