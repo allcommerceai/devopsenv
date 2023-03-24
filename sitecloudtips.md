@@ -24,3 +24,9 @@ sfdx force:mdapi:retrieve -s -r ./mdapipkg  -k package.xml
 ```
 
 Compare and certain what is changed, update directly in metadata file, and upload back
+
+
+### Expeirence Cloud - make LWC support 
+Web2Lead - Lwc component with **webtolead** html code support
+
+### Google Places API for Appointments - Territory Resources
