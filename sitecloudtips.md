@@ -1,6 +1,7 @@
-## Cloud 
+## Experence Cloud 
 
 the site builder always crash for a page, download the page's metadata and upload back it.
+Need open the setting under experience cloud to support "**ExperienceBundle Metadata API**"
 
 Create a file package.xml
 ```
