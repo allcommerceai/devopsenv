@@ -1,5 +1,5 @@
 
-###
+### Lightning Out to make Flow used outside Salesforce
 
 ```
 <!-- myFlowWrapper.html -->
