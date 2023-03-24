@@ -20,6 +20,6 @@ Create a file package.xml
 
 ```
 sfdx force:mdapi:retrieve -s -r ./mdapipkg  -k package.xml
-
-
 ```
+
+Compare and certain what is changed, update directly in metadata file, and upload back
