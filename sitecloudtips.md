@@ -42,10 +42,8 @@ create a Aura App with name **lwcApp**
 </aura:application>
 
 ```
-https://yourdomain.lightning.force.com/c/lwcApp.app
+
 
 ```
-
-
-
+https://yourdomain.lightning.force.com/c/lwcApp.app
 ```
