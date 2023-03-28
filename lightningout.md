@@ -2,11 +2,15 @@
 
 Some auth methods to make sure they can run.
 
-Connected App 
 
-SSL
+Some important elements of lightning out:
 
-Aura App
+1. Connected App 
+
+2. SSL
+
+3. Aura App
+
 
 
 
