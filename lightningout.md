@@ -16,15 +16,3 @@ With the same framework, to run batch out side of salesforce
 
 Now there are more approaches to run salesforce batches 
 
-
-
-
-
-
-
-
-
-
-
-
-
